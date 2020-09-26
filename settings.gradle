@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SupraX_Monitoring_Sensor"
